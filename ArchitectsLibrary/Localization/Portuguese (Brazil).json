@@ -1,0 +1,252 @@
+{
+  // Buildables
+
+  "BuildableArchway": "Estrutura de arco alienígena",
+  "Tooltip_BuildableArchway": "Um grande objeto, provavelmente usado como uma moldura de porta. Decorativo.",
+
+  "BuildableColumn": "Coluna alienígena",
+  "Tooltip_BuildableColumn": "Um objeto alto em forma de coluna com um design complexo. Decorativo.",
+
+  "BuildableColumnSmall": "Coluna alienígena pequena",
+  "Tooltip_BuildableColumnSmall": "Um objeto alto em forma de coluna com um design complexo. Pode ser colocado dentro e fora.",
+
+  "BuildableDissectionTank": "Tanque de dissecação",
+  "Tooltip_BuildableDissectionTank": "Um tanque decorativo. Pode ser colocado dentro e fora.",
+
+  "BuildableInfoPanel": "Mapa alienígena",
+  "Tooltip_BuildableInfoPanel": "Um mapa de uma estrutura alienígena desconhecida. Pode ser colocado dentro e fora.",
+
+  "BuildableDoorFrame": "Moldura de porta alienígena",
+  "Tooltip_BuildableDoorFrame": "Uma moldura de porta alienígena decorativa.",
+
+  "BuildableDoorFrameWide": "Moldura de porta alienígena (larga)",
+  "Tooltip_BuildableDoorFrameWide": "Uma moldura de porta alienígena decorativa.",
+
+  "BuildableItemPedestal": "Pedestal vazio de item",
+  "Tooltip_BuildableItemPedestal": "Um grande pedestal que pode ser usado para exibir um único item. Pode ser colocado dentro e fora.",
+
+  "BuildableLargeRelicTank": "Caixa longa de relíquias",
+  "Tooltip_BuildableLargeRelicTank": "Uma grande caixa de relíquias vazia. Pode conter 3 itens. Pode ser colocado dentro e fora.",
+
+  "BuildablePrecursorLight1": "Grande luz ativada alienígena",
+  "Tooltip_BuildablePrecursorLight1": "Uma luz decorativa que ativa dentro do alcance. Pode ser colocado dentro e fora.",
+
+  "BuildablePrecursorLight2": "Luz ativada alienígena",
+  "Tooltip_BuildablePrecursorLight2": "Uma luz decorativa que ativa dentro do alcance. Pode ser colocado dentro e fora.",
+
+  "BuildablePrecursorLight3": "Grande luz alienígena",
+  "Tooltip_BuildablePrecursorLight3": "Uma luz decorativa. Pode ser colocado dentro e fora.",
+
+  "BuildablePrecursorLight4": "Pequena luz alienígena",
+  "Tooltip_BuildablePrecursorLight4": "Uma luz decorativa. Ativa dentro do alcance. Pode ser colocado dentro e fora.",
+
+  "BuildablePrecursorLight5": "Pequeno holofote alienígena",
+  "Tooltip_BuildablePrecursorLight5": "Uma luz decorativa. Pode ser colocado dentro e fora.",
+
+  "BuildableLightObelisk": "Obelisco iluminado",
+  "Tooltip_BuildableLightObelisk": "Um pequeno obelisco com uma luz montada no topo. Ativa dentro do alcance. Pode ser colocado dentro e fora.",
+
+  "BuildableMicroscope": "Microscópio alienígena",
+  "Tooltip_BuildableMicroscope": "O que parece ser um microscópio avançado. Não funcional. Pode ser colocado dentro e fora.",
+
+  "BuildableObelisk": "Obelisco alienígena",
+  "Tooltip_BuildableObelisk": "Um obelisco que pode ser usado para decoração. Pode ser colocado dentro e fora.",
+
+  "BuildableObeliskLarge": "Obelisco alienígena alto",
+  "Tooltip_BuildableObeliskLarge": "Um grande obelisco que pode ser usado para decoração. Pode ser colocado dentro e fora.",
+
+  "BuildableOrnamentalCube": "Cubo ornamental",
+  "Tooltip_BuildableOrnamentalCube": "Um cubo ornamental que pode ser usado para decoração. Pode ser colocado dentro e fora.",
+
+  "BuildableTabletPedestal": "Pedestal de tablet alienígena",
+  "Tooltip_BuildableTabletPedestal": "Um pedestal que pode ser usado para decoração. Projetado para segurar um tablet alienígena. Pode ser colocado dentro e fora.",
+
+  "BuildablePlatform": "Plataforma alienígena",
+  "Tooltip_BuildablePlatform": "Uma grande plataforma plana, para decoração. Pode ser colocado dentro e fora.",
+
+  "BuildableRelicTank": "Caixa de relíquias",
+  "Tooltip_BuildableRelicTank": "Uma caixa de relíquias vazia. Pode conter 1 item. Pode ser colocado dentro e fora.",
+
+  "BuildableSonicDeterrent": "Dissuasor sônico",
+  "Tooltip_BuildableSonicDeterrent": "Um grande objeto alienígena que afasta a fauna. Mais eficaz contra fauna maior. Requer energia Iônica para funcionar.",
+
+  "BuildableSpecimenCases": "Casos de espécimes",
+  "Tooltip_BuildableSpecimenCases": "Um grande objeto alienígena, que tem muitos pequenos compartimentos de armazenamento. Pode ser colocado dentro e fora.",
+
+  "BuildableAlienTable": "Mesa de laboratório alienígena",
+  "Tooltip_BuildableAlienTable": "Uma longa mesa que pode ser usada para decoração. Pode ser colocado dentro e fora.",
+
+  "BuildablePrecursorComputerA": "Terminal de computador alienígena (verde)",
+  "Tooltip_BuildablePrecursorComputerA": "Um terminal de computador de origem alienígena. Embora o método de interação com suas funções principais seja desconhecido, ele pode projetar holograficamente um item para fins de exibição.",
+
+  "BuildablePrecursorComputerB": "Terminal de computador alienígena (laranja)",
+  "Tooltip_BuildablePrecursorComputerB": "Um terminal de computador de origem alienígena. Embora o método de interação com suas funções principais seja desconhecido, ele pode projetar holograficamente um item para fins de exibição.",
+
+  "BuildablePrecursorComputerC": "Terminal de computador alienígena (azul)",
+  "Tooltip_BuildablePrecursorComputerC": "Um terminal de computador de origem alienígena. Embora o método de interação com suas funções principais seja desconhecido, ele pode projetar holograficamente um item para fins de exibição.",
+
+  "PrecursorSilo": "Condensador de material alienígena",
+  "Tooltip_PrecursorSilo": "Módulo de armazenamento externo que pode armazenar uma grande quantidade de um único tipo de item, condensando-o o máximo possível fisicamente.",
+
+  "PrecursorModularBlock": "Bloco modular alienígena (P)",
+  "Tooltip_PrecursorModularBlock": "Um pequeno bloco composto de materiais alienígenas avançados. Pode ser usado para criar muitos tipos de estruturas.",
+
+  "PrecursorModularBlockLarge": "Bloco modular alienígena (G)",
+  "Tooltip_PrecursorModularBlockLarge": "Um grande bloco composto de materiais alienígenas avançados. Pode ser usado para criar muitos tipos de estruturas.",
+
+  "PrecursorFoundationTile": "Fundação alienígena",
+  "Tooltip_PrecursorFoundationTile": "Uma grande fundação para a construção de bases pessoais alienígenas.",
+
+  "PrecursorWallDecoration1": "Decoração de parede alienígena A",
+  "Tooltip_PrecursorWallDecoration1": "Uma decoração de parede para decorar suas Bases Alienígenas.",
+
+  "PrecursorWallDecoration2": "Decoração de parede alienígena B",
+  "Tooltip_PrecursorWallDecoration2": "Uma decoração de parede para decorar suas Bases Alienígenas.",
+
+  "PrecursorWallDecoration3": "Decoração de parede alienígena C",
+  "Tooltip_PrecursorWallDecoration3": "Uma decoração de parede para decorar suas Bases Alienígenas.",
+
+  "PrecursorOxygenGenerator": "Gerador de campo de oxigênio alienígena",
+  "Tooltip_PrecursorOxygenGenerator": "Este dispositivo expulsa água e gera um gás hidrofóbico denso que preenche qualquer espaço que ocupa, convertendo, portanto, áreas alagadas em instalações respiráveis e caminháveis. Requer energia Iônica para funcionar.",
+
+  "IonGenerator": "Gerador de energia alienígena",
+  "Tooltip_IonGenerator": "Drena cubos de íon de sua energia iônica com baixa eficiência. Apenas compatível com tecnologia Alienígena.",
+
+  "AlienSolarPanel": "Painel solar alienígena",
+  "Tooltip_AlienSolarPanel": "Converte a luz solar disponível em energia iônica com altíssima eficiência. Apenas compatível com tecnologia Alienígena.",
+
+  "BuildableAlienThermalPlant": "Usina termal alienígena",
+  "Tooltip_BuildableAlienThermalPlant": "Converte energia térmica em energia elétrica em taxas extremas. Com tanta eficiência, deve funcionar independentemente da temperatura. Apenas compatível com tecnologia Alienígena.",
+
+  // ......................................Cut content.................................................
+  "BuildableAlienRobot": "Robô alienígena",
+  "Tooltip_BuildableAlienRobot": "Um robô alienígena que vaga por aí. Pode ser colocado dentro e fora.",
+
+  "BuildableWarper": "Warpador",
+  "Tooltip_BuildableWarper": "Uma Unidade Auto-Warpadora de Aplicação de Quarentena que ataca criaturas infectadas.",
+  // .......................................................................................................
+
+  "PrecursorFabricator": "Fabricador alienígena",
+  "Tooltip_PrecursorFabricator": "Fabricador alienígena avançado. Fabricador básico da Alterra adaptado com tecnologia alienígena avançada, capaz de criar artefatos poderosos.",
+  "PrecursorFabricatorIonBuilder": "Fabricador alienígena",
+  "Tooltip_PrecursorFabricatorIonBuilder": "Fabricador alienígena avançado. Fabricador básico da Alterra adaptado com tecnologia alienígena avançada, capaz de criar artefatos poderosos.",
+  "UseText_PrecursorFabricator": "Usar fabricador alienígena",
+
+  // Advanced Materials
+  "AlienCompositeGlass": "Vidro composto alienígena",
+  "Tooltip_AlienCompositeGlass": "Vidro extremamente resistente, infundido com tecnologia alienígena.",
+
+  "AotuPoster": "Projetor holográfico Arquitetos do Desconhecido",
+  "Tooltip_AotuPoster": "Um logotipo da equipe, projetado com tecnologia holográfica.",
+
+  "CobaltIngot": "Barra de cobalto",
+  "Tooltip_CobaltIngot": "Barra condensada de cobalto.",
+
+  "PrecursorIngot": "Barra de liga alienígena",
+  "Tooltip_PrecursorIngot": "Um recurso alienígena com propriedades misteriosas e integridade sem precedentes.",
+
+  "ReinforcedGlass": "Vidro reforçado",
+  "Tooltip_ReinforcedGlass": "Vidro forte e altamente resistente a arranhões, sintetizado a partir de cristal de safira.",
+
+  "OpticFiber": "Carretel de fibra óptica",
+  "Tooltip_OpticFiber": "Fibra óptica de alta qualidade. Permite transferência de dados de alta velocidade.",
+
+  "AlienWiringKit": "Kit de fiação alienígena",
+  "Tooltip_AlienWiringKit": "Fiação compatível com íon. Componente essencial para dispositivos energizados.",
+
+  // Cubes
+  "Electricube": "Eletricubo",
+  "Tooltip_Electricube": "Uma fonte de energia de alta capacidade com uma estrutura semelhante ao Cubo de Íon. Tem aplicações em materiais biomecânicos e tecnologia de deformação.",
+
+  "DrainedIonCube": "Cubo de íon desativado",
+  "Tooltip_DrainedIonCube": "Um Cubo de Íon que, embora ainda altamente reativo, não pode mais ser explorado para energia usando qualquer tecnologia humana conhecida.",
+
+  "RedIonCube": "Cubo de poder",
+  "Tooltip_RedIonCube": "Uma fonte de energia de alta capacidade com uma estrutura semelhante ao Cubo de Íon. Capaz de liberar grandes quantidades de energia em um curto espaço de tempo. Aplicações em tecnologia ofensiva e defensiva poderosa.",
+
+  // Minerals (same as their Drillable equivalent)
+  "Cobalt": "Cobalto",
+  "Tooltip_Cobalt": "Co. Aplicações em fabricação de ligas magnéticas de alta resistência.",
+
+  "Emerald": "Esmeralda",
+  "Tooltip_Emerald": "Be₃Al₂SiO₆. Variante de berilo com aplicações em fabricação alienígena avançada.",
+  "DrillableEmerald": "Esmeralda",
+  "Ency_Emerald": "Cristal de Esmeralda",
+  "EncyDesc_Emerald": "Um mineral verde relativamente resistente e uma variação de berilo. Pode ser encontrado em pequenas quantidades em biomas profundos e em grandes depósitos entre áreas com extensas dunas de areia. Embora existam poucas utilizações práticas conhecidas para esta pedra preciosa, uma quantidade significativa deste mineral foi observada em tecnologia alienígena.\n\nAvaliação: Pode ter aplicações na fabricação de tecnologia alienígena",
+
+  "Morganite": "Morganita",
+  "Tooltip_Morganite": "Be₃Al₂SiO₆. Mineral raro com aplicações em fabricação alienígena avançada.",
+  "DrillableEmerald": "Morganita",
+
+  "RedBeryl": "Berilo vermelho",
+  "Tooltip_RedBeryl": "Be₃Al₂Si₆O₁₈. Mineral muito raro com aplicações em fabricação alienígena avançada.",
+  "DrillableRedBeryl": "Berilo vermelho",
+
+  "Sapphire": "Safira",
+  "Tooltip_Sapphire": "Al₂O₃. Propriedades isolantes valiosas e aplicações em reforço de vidro.",
+  "DrillableSapphire": "Safira",
+
+  // Prompts
+  "WaterParkNoEnoughSizePrompt": "Não é possível soltar {0} aqui, o ACU deve ter pelo menos {1} unidades de altura.",
+  "BuilderIncrementSizePrompt": "Aumentar o tamanho ({0})",
+  "BuilderDecrementSizePrompt": "Diminuir o tamanho ({0})",
+  "BuilderResetSizePrompt": "Redefinir o tamanho ({0})",
+  "Achievements": "Conquistas",
+  "AchievementComplete": "Conquista completa!",
+  "PrecursorSiloHoverText": "Usar terminal de dispositivo",
+  "PrecursorSiloLabel": "CONDENSADOR DE MATERIAL",
+  "PrecursorSiloItemConflict": "Tipos de itens conflitantes detectados. Apenas um tipo de item pode existir na unidade de armazenamento.",
+  "SpecimenCaseStorageLabel": "CAIXA DE ESPÉCIMES",
+  "DisplayCaseHoverText": "Mudar exibição",
+  "SmallRelicCaseLabel": "CAIXA DE RELÍQUIAS (1 item permitido)",
+  "LargeRelicCaseLabel": "CAIXA DE RELÍQUIAS GRANDE (3 itens permitidos)",
+  "ItemPedestalLabel": "PEDESTAL DE ITEM (1 item permitido)",
+  "ComputerTerminalLabel": "TERMINAL DE COMPUTADOR (1 item permitido)",
+  "AlienTechPowered": "Funcionando",
+  "AlienTechPoweredInfo": "{0}u de energia disponível (capacidade: {1}u)",
+  "AlienTechUnpowered": "Sem energia!",
+  "AlienTechUnpoweredHint": "Apenas compatível com fontes de energia alienígenas",
+  "AlienPowerSourceHandTarget": "{0}u / {1}u ({2}%)",
+  "AlienPowerSourceHandTargetInvalid": "Inválido",
+  "IonGeneratorInsertCube": "Inserir cubo de íon",
+  "IonGeneratorRemoveCube": "Retirar cubo de íon",
+  "IonGeneratorNoCube": "Nenhum cubo inserido",
+  "AlienSolarPanelHandTarget": "Painel Solar Alienígena ({0}% de eficiência)",
+  "PrecursorFabricatorNotEnoughEnergyNotification": "A fabricação deste item requer {0} de energia.\n<color=#80FF80>Fornecimento de energia iônica: {1}u.</color>",
+
+  // Achievements
+  "AchievementGenericLocked": "Esta conquista está oculta.",
+  "AchievementBuildPrecursorFabricatorName": "Arquiteto",
+  "AchievementBuildPrecursorFabricatorUnlocked": "Construiu um Fabricador Precursor.",
+
+  // Precursor Fabricator tabs
+  "PrecursorFabricatorMenu_AlienMaterials": "Materiais Alienígenas",
+  "PrecursorFabricatorMenu_AlienEquipment": "Equipamento",
+  "PrecursorFabricatorMenu_AlienDevices": "Dispositivos",
+  "PrecursorFabricatorMenu_AlienUpgrades": "Módulos de Upgrade Avançado",
+  "PrecursorFabricatorMenu_AlienDecorations": "Itens de Decoração",
+  "PrecursorFabricatorMenu_AlienEggs": "Ovos",
+
+  // Tools
+  "PrecursorBuilder": "Ferramenta de construção alienígena",
+  "Tooltip_PrecursorBuilder": "Fabrica estruturas e aparelhos alienígenas com tecnologia alienígena complexa.",
+
+  "TechCategoryAlienBlocks": "Blocos Modulares",
+  "TechCategoryAlienDecorations": "Decorações Alienígenas",
+  "TechCategoryAlienLightDecorations": "Peças de Luz Alienígenas",
+  "TechCategoryAlienInteriorModules": "Módulos de Interior Alienígenas",
+  "TechCategoryAlienExteriorModules": "Módulos de Exterior Alienígenas",
+
+  "GroupAlienBlocks": "Blocos Modulares",
+  "GroupAlienDecorations": "Decorações Alienígenas",
+  "GroupAlienLightDecorations": "Peças de Luz Alienígenas",
+  "GroupAlienInteriorModules": "Módulos de Interior Alienígenas",
+  "GroupAlienExteriorModules": "Módulos de Exterior Alienígenas",
+
+  // Tech
+  "AlienMasterTech": "Projetos do Fabricador Alienígena",
+  "Tooltip_AlienMasterTech": "Tecnologia avançada usada por uma raça avançada.",
+  "AlienBuildablesMasterTech": "Projetos de Construção Alienígena",
+  "Tooltip_AlienBuildablesMasterTech": "Tecnologia avançada usada por uma raça avançada."
+
+}
