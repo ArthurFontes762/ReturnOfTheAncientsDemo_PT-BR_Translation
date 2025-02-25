@@ -4,9 +4,9 @@ No dia 15/01/2025 comecei a traduzir o Mod Return Of The Ancients Demo para o jo
 ### 1 - Instalação do Mod Return of the Ancients DEMO:
 
 - Faça o Download [BepInEx](https://www.nexusmods.com/subnautica/mods/1108) (Você precisa de criar uma conta na NexusMods);
-- Descompacta o arquivo;
+- Descompacte o arquivo;
 - Arraste e solte o conteúdo na pasta principal do Subnautica;
-- Inicie o jogo normalmente pois assim aparecerá um arquivo LogOutput.log na sua pasta BepInEx;
+- Inicie o jogo normalmente pois assim aparecerá um arquivo LogOutput.log na pasta BepInEx;
 - Faça o download dos seguintes mods:
   - [Nautilus](https://www.nexusmods.com/subnautica/mods/1262);
   - [ECCLibrary](https://www.nexusmods.com/subnautica/mods/1457);
