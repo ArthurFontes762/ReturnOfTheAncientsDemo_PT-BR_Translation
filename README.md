@@ -23,3 +23,9 @@ No dia 15/01/2025 comecei a traduzir o Mod Return Of The Ancients Demo para o jo
 - Faça a mesma coisa com a pasta ReturnOfTheAncients para a pasta onde está localizado o mod;
 - Inicie o jogo e verifique se a tradução está funcionando;
 - Divirtam-se.
+
+### OBSERVAÇÕES:
+
+- Lembrando que é uma Demonstração pública. Pode ser que há coisas não traduzidas nas conquistas pois não achei a linha de código para ela.
+- Há um bug na tela inicial de estar escrito Achievements ao invés de Conquistas mas ao entrar nas opções e sair volta para Conquistas.
+- Se houver algum erro de localização ou quer fazer alguma sugestão, por favor, entre em contato comigo.
