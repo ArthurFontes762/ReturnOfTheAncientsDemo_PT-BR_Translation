@@ -5,14 +5,14 @@ No dia 15/01/2025 comecei a traduzir o Mod Return Of The Ancients Demo para o jo
 
 - Faça o Download [BepInEx](https://www.nexusmods.com/subnautica/mods/1108) (Você precisa de criar uma conta na NexusMods);
 - Descompacte o arquivo;
-- Arraste e solte o conteúdo na pasta principal do Subnautica;
-- Inicie o jogo normalmente pois assim aparecerá um arquivo LogOutput.log na pasta BepInEx;
+- Arraste e solte o conteúdo na pasta principal de onde está localizado o Subnautica;
+- Inicie o jogo normalmente pois assim aparecerá um arquivo LogOutput.log na pasta `BepInEx`;
 - Faça o download dos seguintes mods:
   - [Nautilus](https://www.nexusmods.com/subnautica/mods/1262);
   - [ECCLibrary](https://www.nexusmods.com/subnautica/mods/1457);
   - [ArchitectsLibrary](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/blob/main/architects-library.md);
   - [Return of the Ancients Demo](https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/blob/main/return-of-the-ancients.md).
-- Descompacte e arraste cada mod para a pasta BepInEx/plugins;
+- Descompacte e arraste cada mod para a pasta `BepInEx/plugins`;
 - Inicie o jogo e verifique se tudo vai funcionar. Se tudo funcionar, vamos para o passo 2.
 
 ### 2 - Instalação da tradução ArchitectsLibrary e Return Of The Ancients DEMO:
