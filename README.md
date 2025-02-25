@@ -19,8 +19,8 @@ No dia 15/01/2025 comecei a traduzir o Mod Return Of The Ancients Demo para o jo
 
 - Faça o download da [tradução](https://github.com/ArthurFontes762/ReturnOfTheAncientsDemo_PT-BR_Translation);
 - Descompacta o arquivo;
-- Arraste a pasta ArchitectsLibrary para a pasta onde está localizado o mod;
-- Faça a mesma coisa com a pasta ReturnOfTheAncients para a pasta onde está localizado o mod;
+- Arraste a pasta `ArchitectsLibrary` para a pasta onde está localizado o mod;
+- Faça a mesma coisa com a pasta `ReturnOfTheAncients` para a pasta onde está localizado o mod;
 - Inicie o jogo e verifique se a tradução está funcionando;
 - Divirtam-se.
 
