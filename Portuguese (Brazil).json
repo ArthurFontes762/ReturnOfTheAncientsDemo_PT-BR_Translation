@@ -1,0 +1,223 @@
+{
+  // These are comments. They are considered invalid by a lot of JSON editors but still work anyway.
+  //Databank paths
+  "EncyPath_RotA": "Return of the Ancients",
+  "EncyPath_RotA/RotAPrecursorAnalysis": "Análise",
+  "EncyPath_RotA/RotATerminalInformation": "Informações",
+  "EncyPath_RotA/RotAPrecursorTech": "Tecnologias",
+  "EncyPath_RotA/RotAPrecursorRelics": "Relíquias",
+  "EncyPath_RotA/RotAGargantuanLeviathan": "Gargantuan Leviatã",
+  // Databank entries
+  "Ency_GargantuanVoid": "Gargantuan Leviatã",
+  "EncyDesc_GargantuanVoid": "ERRO: AS CATEGORIAS DE TAMANHO DA AMOSTRA NÃO PODEM SER AJUSTADAS PARA CIMA PARA ACOMODAR ESTA ESPÉCIE SEM RECALIBRAÇÃO\n\nUm organismo de tamanho insondável, diminuindo seu tamanho juvenil em várias ordens de magnitude. Um verdadeiro predador de ápice planetário.\n\n1. Cabeça:\nO crânio maciço do Gargantuan Leviatã parece estar cercado por seus tentáculos e é coberto por escamas grossas o suficiente para que nenhum armamento disponível seja capaz de danificá-los. Quatro gavinhas com fotóforos nas pontas cobrem o focinho do organismo, provavelmente usadas para atrair presas em potencial. Três pares de olhos hipersensíveis garantem que ele não tenha pontos cegos e possa enxergar na escuridão total do ambiente. \n\n2. Corpo:\nO corpo do espécime escaneado mede mais de 5.000 metros de comprimento, ou 3 quilômetros. As suas proporções semelhantes às de uma enguia parecem permitir ao leviatã deslizar pelas águas do abismo com um gasto mínimo de energia, ao mesmo tempo que lhe permite dissipar as grandes quantidades de excesso de calor gerado pelo seu imenso volume. A análise indica que ele é capaz de usar seu corpo para cercar e esmagar presas, mas nenhum outro organismo encontrado é grande o suficiente para que o leviatã seja capaz de fazê-lo.\n\n3. Transparência:\nAs escamas do organismo parecem diferir da sua forma juvenil. Apesar de assumir uma aparência cristalina que lembra diamantes, as escamas do exemplar parecem ser muito mais fortes do que as encontradas nos juvenis. A pele do leviatã tem uma qualidade transparente que permite que seu esqueleto e entranhas brilhem. Provavelmente faz uso da transparência para se camuflar melhor e confundir as presas, juntamente com a sua bioluminescência e comportamento de caça enrolado. \n\n4. Bioluminescência:\nO Gargantuan Leviatã é coberto por vários nós de bioluminescência, dando ao seu ventre uma aparência semelhante ao céu noturno. Provavelmente usa a bioluminescência como camuflagem e para atrair presas, com as suas barbatanas em particular tendo uma semelhança com os Leviatãs Fantasmas encontrados nas bordas da Cratera. As projeções sugerem que também pode usar a bioluminescência para comunicar com outros indivíduos da mesma espécie.\n\n5. Inteligência:\nO cérebro e o sistema nervoso do Gargantuan Leviatã parecem ser extremamente complexos e fazem uso do que só pode ser descrito como telepatia para permitir que funcionem sem demora excessiva no tempo de reação. A atividade cerebral do espécime escaneado revelou-se difícil de acompanhar e ainda não está claro se ele é capaz de ter sapiência.\n\n6. Comportamento:\nComo predador indiscutível de seu ecossistema, tudo é presa em potencial. No entanto, o espécime observado parece caçar quase exclusivamente organismos maiores da classe Leviatã, consumindo apenas acidentalmente criaturas menores enquanto nada. Curiosamente, parece ser capaz de detectar criaturas inteligentes, abrindo uma exceção para persegui-las independentemente da classificação de tamanho.\n\n7. Rugidos:\nO Leviatã ruge em intervalos regulares, provavelmente para ajudá-lo a localizar a presa ou para se comunicar com outros indivíduos. As ondas de choque geradas por seus rugidos são altamente letais e destrutivas nas proximidades, com uma explosão capaz de deslocar até mesmo um Cyclops a muitas dezenas de metros de distância. \n\n8. Hibernação:\nCálculos iniciais sugeririam que o imenso volume do Gargantuan Leviatã seria insustentável no atual ecossistema, mas uma análise mais aprofundada de seus sistemas corporais indica que o Leviatã é capaz de períodos prolongados de estase, permitindo que o organismo hiberne durante períodos de tempo desfavoráveis ​​e, portanto, potencialmente viva. por milhões de anos. \n\n9. Dieta:\nVarreduras do gigantesco sistema digestivo do Leviatã indicam que o organismo é capaz de utilizar energia bruta, como nuclear ou térmica, que demonstrou ser capaz de absorver ativa e passivamente através de sua mandíbula ou pele, gerando campos magnéticos ao seu redor. Uma grande parte do que o organismo absorve é provavelmente mantida como reserva para os seus períodos extremamente longos de hibernação, mas a maior parte é armazenada em órgãos especializados com finalidade ainda não revelada. É necessária uma análise mais aprofundada.\n\n10. Ciclo de vida:\nO grande tamanho do organismo permite-lhe escavar túneis através das montanhas até ao fundo do mar do abismo, onde provavelmente nidifica e hiberna próximo da atividade geotérmica. Os ovos são provavelmente depositados perto de ecossistemas prósperos em águas mais rasas, onde podem sustentar filhotes muito menores e mais vivos.\n\n\nAvaliação: Fascinante – e é uma ameaça extrema. Evite at- [ERRO] Eu sei que você está lendo isso.",
+  "Ency_GargantuanBaby": "Gargantuan Leviatã Bebê",
+  "EncyDesc_GargantuanBaby": "Um gigantesco espécime de Leviatã recém-nascido, emergiu recentemente de um único ovo antigo.\n\nCiclo de vida::\nComo a maioria dos organismos no planeta 4546b, esta espécie nasce totalmente capaz de atender às suas próprias necessidades e pode ser frequentemente observada caçando pequenas presas nas suas proximidades. Ao contrário da sua forma adulta, o filhote parece estar bem adaptado para viver em águas rasas e nada com o que pode ser descrito como uma atitude despreocupada. \n\nComportamento:\nO espécime escaneado é adepto de se defender de predadores muito maiores. A análise indica que ele consegue isso enfrentando seu inimigo por tempo suficiente para descobrir seus pontos fracos antes de atacá-lo com precisão mortal. Embora totalmente independente, parece gostar da companhia de outros organismos, com uma curiosa preferência por espécies inteligentes. Ele regularmente se envolve em comportamentos lúdicos, indicando que provavelmente pode interagir com segurança.\n\nAvaliação: Recomenda-se estabelecer uma ligação emocional com este organismo; ele é muito mais hábil em sobreviver do que você e provavelmente irá defendê-lo de organismos hostis.",
+  "Ency_GargantuanJuvenile": "Gargantuan Leviatã Juvenil",
+  "EncyDesc_GargantuanJuvenile": "AS CATEGORIAS DE TAMANHO DAS AMOSTRAS FORAM MUITO AJUSTADAS PARA CIMA PARA ACOMODAR ESTA ESPÉCIE\n\nUm Leviatã de proporções gigantescas com um longo corpo serpentino e características reptilianas, este espécime é significativamente maior do que qualquer outra criatura viva encontrada na região.\n\nTentáculos:\nOs tentáculos do espécime parecem estar cobertos por escamas grossas e são usados ​​para ajudar o leviatã a nadar e capturar presas. A análise das protuberâncias nas pontas dos tentáculos indica que estas também são utilizadas pelo organismo para sentir o ambiente.\n\nEscamas Mineralizadas:\nAs varreduras das escamas do leviatã indicam que elas são compostas, entre outras coisas, por grandes quantidades de ligas inorgânicas de resistência à tração sem precedentes. Estes minerais parecem ter sido fornecidos pela corrente sanguínea do Leviatã durante o desenvolvimento das escamas, sugerindo que este absorve estes minerais do seu ambiente. Observação adicional recomendada.\n\nComportamento:\nApesar do seu imenso tamanho, o Leviatã parece atravessar o seu ambiente com uma facilidade surpreendente, usando o seu corpo longo e serpentino para percorrer as profundezas com um gasto mínimo de energia. As varreduras indicam que o espécime usa seus vários sentidos, entre eles o sonar, para localizar presas em potencial nas proximidades e engoli-la inteira.\n\nO espécime escaneado supera o tamanho de todos os outros leviatãs próximos, apesar da análise indicar que é apenas um juvenil.\n \nNota motivacional: Parabéns por conseguir digitalizar este espécime e sobreviver o tempo suficiente para ver os resultados! A Alterra gostaria de lembrá-lo de que correr riscos com grande probabilidade de resultar em morte ao usar a propriedade da empresa é fortemente desencorajado e resultará em penalidades.\n\nAvaliação: Ameaça extrema – o organismo pode senti-lo muito antes de você detectá-lo.",
+  "Ency_BoneOutpostTerminal": "Projeto de Análise de Fóssil Ômega",
+  "EncyDesc_BoneOutpostTerminal": "Os dados do terminal foram traduzidos. A mensagem diz:\n\nA análise de amostras de fósseis foi conduzida para estudar com segurança a biologia do Espécime Omega sem qualquer risco de catástrofe. Este fóssil foi surpreendentemente bem preservado, mas a probabilidade de encontrar DNA intacto suficiente para reconstruir uma amostra completa é próxima de zero.\n\nAs amostras de fósseis usadas nos estudos incluem seções fraturadas das costelas e apêndices semelhantes a barbatanas do espécime Omega e, mais importante ainda, o restos de formas de vida encontrados em seu extenso trato digestivo.\n\nAmostras fósseis dignas de nota devem ser enviadas para a Instalação de Armazenamento de Recursos para redistribuição adicional e análise intensa. Como esta base permaneceu sem rede, espera-se que um indivíduo realoque manualmente as amostras para as coordenadas anexadas.",
+  "Ency_PrecursorIngot": "Liga Estrutural Alienígena",
+  "EncyDesc_PrecursorIngot": "Uma liga sem nome com integridade sem precedentes. Parece não ser maleável com qualquer tecnologia conhecida. Os detalhes luminescentes também sugerem circuitos internos complexos.\n\nNenhuma aplicação prática pode ser simulada para este objeto; pesquisa adicional necessária.",
+  "Ency_PrecursorRifle": "Variante de rifle alienígena",
+  "EncyDesc_PrecursorRifle": "Esta arma se assemelha fortemente a um dispositivo alienígena semelhante encontrado no planeta. A coloração, entretanto, parece mais próxima do estilo arquitetônico distinto dos alienígenas. Sendo alimentado por energia iônica, deve ter sido extremamente poderoso.",
+  "Ency_PrecursorBlade": "Adaga Alienígena",
+  "EncyDesc_PrecursorBlade": "Este dispositivo alienígena consiste em um cabo simples com uma lâmina afiada montada na parte superior, que parece ser substituível. A lâmina parece ser composta de uma variante do material típico do cubo de íons, que provavelmente foi otimizado para cortar materiais orgânicos com facilidade.\n\nEmbora o material exato não possa ser replicado, é possível sintetizar uma réplica que pode usar qualquer tipo de cubo de íons disponível.",
+  "Ency_PrecursorBuilder": "Ferramenta de construção alienígena",
+  "EncyDesc_PrecursorBuilder": "Uma antiga ferramenta de construção que se parece estranhamente com o Alterra Habitat Builder.\n\nEste dispositivo provavelmente foi usado para projetar e criar grandes estruturas com facilidade, incluindo todas as estruturas alienígenas encontradas no planeta. O fato de ter sido deixado em êxtase no local sugere que esta foi a última estrutura que já construiu.",
+  // Gargantuan Leviathan
+  "GargantuanJuvenile": "Gargantuan Leviatã Juvenil",
+  "Tooltip_GargantuanJuvenile": "Uma forma de vida de classe titã.",
+  "GargantuanVoid": "Gargantuan Leviatã",
+  "Tooltip_GargantuanVoid": "Uma forma de vida de classe titã. Indígena do vazio.",
+  "GargantuanBaby": "Gargantuan Leviatã Bebê",
+  "Tooltip_GargantuanBaby": "Um espécime muito jovem, criado em confinamento. Brincalhão.",
+  "SkeletonGargantuan": "Esqueleto do Gargantuan",
+  "Tooltip_SkeletonGargantuan": "Spooky Scary Skeleton.",
+  // Creatures
+  "GhostLeviathanSkeleton": "Esqueleto do Leviatã Fantasma",
+  "Tooltip_GhostLeviathanSkeleton": "Os restos de um poderoso Leviatã Fantasma.",
+  "Ency_GhostLeviathanSkeleton": "Esqueleto do Leviatã Fantasma",
+  "EncyDesc_GhostLeviathanSkeleton": "Os restos esqueléticos de um leviatã fantasma, e provavelmente um dos poucos no planeta.\n\nO tamanho e a localização deste esqueleto sugerem que o leviatã morreu em uma idade precoce. Ao contrário deste espécime, os leviatãs fantasma mais velhos geralmente migram além da borda da cratera para águas mais profundas antes da morte, onde seus restos se perdem no abismo. Se esta criatura não sucumbiu a doenças ou enfermidades, foi provavelmente morta por outro predador de classe leviatã maior.",
+  "ReefbackLeviathanSkeleton": "Esqueleto do Leviatã Costa-de-Recife",
+  "Tooltip_ReefbackLeviathanSkeleton": "Os restos de um antigo Leviatã Costa-de-Recife.",
+  "SeaTreaderSkeleton": "Esqueleto do leviatã Sea Treader",
+  "Tooltip_SeaTreaderSkeleton": "Os restos de um Leviatã Sea Treader.",
+  "Ency_SeaTreaderSkeleton": "Esqueleto do Sea Treader",
+  "EncyDesc_SeaTreaderSkeleton": "Os restos deteriorados de um Leviatã Sea Treader falecido.\n\nParece que os Sea Treaders raramente se afastam de seus rebanhos, mesmo à beira da morte, já que a maioria dos esqueletos está situada ao longo da borda de seus caminhos. Arranjos incomuns de ossos sugerem que os Sea Treaders provavelmente são cuidados pelo rebanho mesmo após a morte, através de um elaborado processo de sepultamento. Se não for por razões espirituais, isso pode potencialmente encorajar o crescimento de plantas, levando a um ciclo de morte e regeneração.",
+  "Tooltip_AlphaPeeper": "Pequeno peixe presa, comestível. Alto teor calórico.",
+  "Tooltip_AlphaPeeperCooked": "Carne rica e macia com um sabor peculiar e temperado. Uma excelente refeição.",
+  "Tooltip_AlphaPeeperCured": "Crocante, saboroso e extremamente nutritivo. Desidratante, mas mantém-se bem.",
+  "AlphaPeeper1": "Alfa Peeper Espectral",
+  "AlphaPeeper2": "Alfa Peeper com Barbatana Verde-Limão",
+  "AlphaPeeper3": "Alfa Peeper com Barbatana Magenta",
+  "AlphaPeeper4": "Alfa Peeper com Penas",
+  "AlphaPeeper5": "Alfa Peeper Auroral",
+  "AlphaPeeper1Cooked": "Alfa Peeper Espectral cozido",
+  "AlphaPeeper1Cured": "Alfa Peeper Espectral curado",
+  "AlphaPeeper2Cooked": "Alfa Peeper com Barbatana Verde-Limão cozido",
+  "AlphaPeeper2Cured": "Alfa Peeper com Barbatana Verde-Limão curado",
+  "AlphaPeeper3Cooked": "Alfa Peeper com Barbatana Magenta cozido",
+  "AlphaPeeper3Cured": "Alfa Peeper com Barbatana Magenta curado",
+  "AlphaPeeper4Cooked": "Alfa Peeper com Penas cozido",
+  "AlphaPeeper4Cured": "Alfa Peeper com Penas curado",
+  "AlphaPeeper5Cooked": "Alfa Peeper Auroral cozido",
+  "AlphaPeeper5Cured": "Alfa Peeper Auroral curado",
+  // Items and item tooltips
+  "GargantuanEgg": "Ovo de Gargantuan",
+  "Tooltip_GargantuanEgg": "Bebês de Gargantuans Leviatãs eclodem destes ovos.",
+  "WarpCannon": "Dispositivo de deformação portátil",
+  "Tooltip_WarpCannon": "Tecnologia alienígena de deformação adaptada em uma ferramenta portátil compacta para uso pessoal. Requer baterias de íon para funcionar.",
+  "IonKnife": "Faca de íon",
+  "Tooltip_IonKnife": "Uma atualização da Faca de Sobrevivência padrão, utilizando tecnologia alienígena. Diferentes variantes de cubos de íon podem ser inseridas no dispositivo, cada uma com efeitos variados na função do dispositivo.",
+  "GargantuanAdultToy": "Réplica de Gargantuan Leviatã Adulto",
+  "Tooltip_GargantuanAdultToy": "Uma réplica em pequena escala de um Gargantuan Leviatã Adulto. Equipado com chapéus bonitos para torná-lo menos assustador. Aproximadamente 0,16% da escala.",
+  "GargantuanJuvenileToy": "Réplica de Gargantuan Leviatã Juvenil",
+  "Tooltip_GargantuanJuvenileToy": "Uma réplica em pequena escala de um Gargantuan Leviatã Juvenil. Aproximadamente 0,33% do tamanho original.",
+  "GargantuanPoster": "Projetor holográfico de Leviatã",
+  "Tooltip_GargantuanPoster": "Uma aproximação da aparência de um antigo leviatã, projetada com tecnologia holográfica.",
+  "BaconCatClock": "Relógio de gato com bacon",
+  "Tooltip_BaconCatClock": "Relógio que me faz dizer sim.",
+  // Modules
+  "ExosuitDashModule": "Módulo de impulso ion do Traje Camarão",
+  "Tooltip_ExosuitDashModule": "Permite ao piloto impulsionar rapidamente em qualquer direção, utilizando os propulsores embutidos do traje Camarão. Não acumulativo.",
+  "ExosuitZapModule": "Módulo de defesa ion do Traje Camarão",
+  "Tooltip_ExosuitZapModule": "Ao receber dano, gera um pequeno pulso elétrico projetado para afastar fauna agressiva. Gera um pulso de energia iônica se necessário. Não acumulativo.",
+  "SeamothElectricalDefenseMK2": "Sistema de defesa perimetral ion do Seamoth",
+  "Tooltip_SeamothElectricalDefenseMK2": "Gera um poderoso campo de energia iônica projetado para afastar fauna agressiva de grande porte. Não acumulativo.",
+  "SeamothGravityBoosterModule": "Módulo de reforço de gravidade do Seamoth",
+  "Tooltip_SeamothGravityBoosterModule": "Permite ao Seamoth lançar um forte orbe emissor de gravidade para manobras avançadas de estilingue e fuga. A tecnologia de deformação torna este um método extremamente eficiente de transporte com fácil reutilização do projétil.",
+  "CyclopsDecoyMk2": "Isca para criaturas MK2",
+  "Tooltip_CyclopsDecoyMk2": "Atrai criaturas para a sua localização usando uma luz de íon piscante. Afasta fauna agressiva usando pulsos de energia iônica. Pode ser implantado à mão ou por um submarino, e é recuperável uma vez implantado.",
+  "CyclopsScannerModule": "Módulo de scanner Cyclops",
+  "Tooltip_CyclopsScannerModule": "Dispositivo montado em veículos de escala industrial que pode ser usado para escanear terrenos, espaçonaves e grandes fauna a uma longa distância. Acessado via sistemas de câmeras do veículo.",
+  "CyclopsScannerModuleMK2": "Módulo de scanner Cyclops MK2",
+  "Tooltip_CyclopsScannerModuleMK2": "Dispositivo montado em veículos de escala industrial, integrado com tecnologia avançada de escaneamento alienígena, com poder e eficiência gigantescos. Acessado via sistemas de câmeras do veículo.",
+  "CyclopsIonBoosterModule": "Módulo de impulso de íon Cyclops",
+  "Tooltip_CyclopsIonBoosterModule": "Usa energia iônica para gerar uma grande quantidade de impulso que pode mover o veículo a velocidades incríveis. Sobrescreve a configuração de flanco.",
+  // Tools Prompts
+  "WarpCannonSwitchFireModeWarp": "Teleportar para base: ({1})\nModo atual: Teleportação pessoal. Alternar modo de disparo ({0})",
+  "WarpCannonSwitchFireModeCreature": "Invocar criaturas: ({1})\nModo atual: Invocação de criatura. Alternar modo de disparo ({0})",
+  "WarpCannonSwitchFireModeManipulatePrimary": "Criar portal de saída: ({1})\nModo atual: Manipulação do ambiente. Alternar modo de disparo ({0})",
+  "WarpCannonSwitchFireModeManipulateSecond": "Criar portal de entrada: ({1})\nModo atual: Manipulação do ambiente. Alternar modo de disparo ({0})",
+  "WarpCannonNotEnoughPowerError": "Energia insuficiente.",
+  "IonKnifeUseFormat": "{0}\nAlternar cubo ({1})",
+  "IonKnifeUseNoCubeLoadedFormat": "Inserir cubo ({0})",
+  "IonKnifePrecursorIonCrystal": "Cubo de íon: Faca de calor padrão, com algumas propriedades elétricas.",
+  "IonKnifeElectricube": "Eletricubo: Não é muito letal, mas infundido com tecnologia de deformação.",
+  "IonKnifeRedIonCube": "Cubo de energia: PARA SER REFEITO MAIS TARDE!",
+  "CyclopsScannerStatus_None": "Pronto...",
+  "CyclopsScannerStatus_Scanning": "Escaneando... {0}%",
+  "CyclopsScannerStatus_NoPower": "Sem energia!",
+  "CyclopsScannerStatus_Done": "Concluído",
+  "CyclopsScannerStatus_OutOfRange": "Fora de alcance!",
+  "CyclopsScannerStatus_TooComplex": "SISTEMA DE ESCANEAMENTO SOBRECARGADO",
+  // Relics
+  "PrecursorIngotRelic": "Liga estrutural alienígena",
+  "PrecursorIngotStackRelic": "Pilha de ligas estruturais alienígenas",
+  "PrecursorRifleRelic": "Rifle alienígena",
+  "PrecursorBladeRelic": "Adaga alienígena",
+  "PrecursorBuilderRelic": "Ferramenta de construção alienígena",
+  "PrecursorSharkUpgradeModuleRelic": "Dispositivo alienígena",
+  // Subtitles
+  // Cyclops subtitles
+  "CyclopsIonBoostersInstalled": "Impulsores de íon instalados.",
+  "CyclopsEngagingIonBoost": "Engajando Impulso de Íon. Perda extrema de energia iminente",
+  "CyclopsGargAggression": "Emergência. Gargantuan Leviatã próximo mostrando agressão extrema. Evitar.",
+  // Data Terminal Subtitles
+  "DetectingAlienBroadcastSubtitles": "Detectando uma transmissão alienígena. Carregando coordenadas para o PDA.",
+  "DownloadingAlienDataSubtitles": "Baixando dados alienígenas...<duration=1770>
+Download concluído!<delay=3525><duration=1383>","IonicPulseTerminalSubtitles": "Sintetizando projetos de Pulso de Energia Iônica a partir de dados alienígenas. Projetos armazenados no banco de dados.",
+  "DownloadingAlienBlueprintSubtitle": "Baixando dados de projetos alienígenas...",
+  "DevSecretAlan": "Al-An - Arte 2D",
+  "DevSecretFossilCurd": "FossilCurd - Arte 3D",
+  "DevSecretHipnox": "Hipnox - Arte 3D",
+  "DevSecretLee23": "Lee23 - Programação",
+  "DevSecretMetious": "Metious - Programação",
+  "DevSecretN8": "N8Crafter - Arte 3D",
+  "DevSecretSlendy": "SlendyPlayz - Animações",
+  // Cutscene subtitles
+  "RotaSunbeamCutscene": "Avery Quinn: Aurora, nós vemos vocês. Cara, seja lá o que atingiu vocês, realmente destruiu a nave.<delay=766><duration=5442>
+Companheiro de Tripulação: Ah, capitão, você vai querer dar uma olhada nisso.<delay=6514><duration=3276>
+Avery Quinn: Aquilo é um edifício lá embaixo?<delay=9982><duration=1226>
+Companheiro de Tripulação: Parece que sim, mas não consigo identificá-lo.<delay=11515><duration=2031>
+Avery Quinn: O que você quer dizer com não consegue identificá-lo?<delay=13943><duration=992>
+Companheiro de Tripulação: Não aparece no sistema.<delay=15127><duration=1097>
+Avery Quinn: Olha, isso não é importante agora.<delay=16362><duration=1380>
+Avery Quinn: Garotos, preparem-se. Estamos rompendo a atmosfera em 10,
+  9,
+  8-<delay=18393><duration=6248>
+Avery Quinn: Espere, o que é aquilo?<delay=25224><duration=1130>
+Companheiro de Tripulação: O quê?<delay=26785><duration=345>
+Avery Quinn: Não, aquele pico de energia<delay=27341><duration=1562>
+Companheiro de Tripulação: Está ficando maior!<delay=29017><duration=900>
+Avery Quinn: Do prédio!?<delay=30129><duration=929>
+Avery Quinn: Todos para as cápsulas de escape agora! Não acho que conseguirei desviar.<delay=32179><duration=3976>
+Avery Quinn: Mayday, mayday, os propulsores sofreram graves danos! Preparando para impacto!<delay=40609><duration=5100>
+Avery Quinn: O que diabos??<delay=47660><duration=843>
+<delay=1000>Avery Quinn: Garotos... Eu não vou conseguir...<delay=58581><duration=2800>
+Avery Quinn: A cápsula deve levar vocês para um lugar seguro.<delay=63237><duration=3583>
+Avery Quinn: Foi uma honra. Eu... Eu sinto muito.<delay=70881><duration=4100>
+Espero que vocês consigam-<delay=75729><duration=1456>
+*Explosão*<delay=77290><duration=4177>",
+  // Alien base subtitles
+  "SupplyCacheBaseSubtitle": "Interferência de sinal geológico detectada. Fonte do sinal verdadeiro provavelmente está nas proximidades.",
+  // Other subtitles
+  "PDADeathImminent": "Aviso: Morte iminente.",
+  "PDAExplosionRoar": "Atividade tectônica menor detectada. Padrão inconsistente com a detonação quântica do núcleo de propulsão da Aurora.
+Ponto de origem a aproximadamente 3 quilômetros. Cautela extrema é recomendada.","GargantuanEncounterJuvenile": "Aviso: varredura biológica passiva é limitada a 500 metros em qualquer direção. Por favor, escaneie manualmente o objeto para uma medição mais abrangente.",
+  "WarpCannonPickupVoiceline": "O Dispositivo de Deformação Portátil permite teletransporte de curto e longo alcance para o usuário.
+Tenha cuidado com os vários efeitos colaterais da teletransporte, incluindo morte súbita e falha na materialização adequada.","GargantuanEggPickupVoiceline": "Este ovo é incomumente grande e provavelmente abriga o embrião de uma forma de vida da classe leviatã.",
+  "ColorIonCubePickupVoiceline": "Os vários Cubos de Íon são essenciais na fabricação de tecnologia alienígena, mas exigem recursos raros e grandes quantidades de energia para fabricar.
+Apesar de sua aparência colorida e vago semelhança com doces, comê-los é desaconselhável.","GargantuanEncounterAdult": "As chances de sobreviver a um encontro com um leviatã classe apex são de 3.720 para 1. Você tem certeza...<duration=6610>,
+*Incompreensível*<delay=6802><duration=2491>
+Você está pronto para morrer?<delay=9427><duration=2318>","CraterEdgeSubtitle": "Os organismos locais da classe Leviatã parecem estar demonstrando um comportamento perturbado e errático incomum para uma espécie de predador apex. É necessária mais pesquisa.",
+  "ReefbackSkeletonSubtitle": "Estes parecem ser os restos de um Leviatã Costa-de-Recife. Parece que mesmo na morte, essas criaturas maciças desempenham um papel importante no ecossistema.",
+  "SunbeamCommunicationLostSubtitle": "Comunicação com a nave comercial \"Sunbeam\" perdida.",
+  // Error messages & Miscellaneous prompts 
+  "CyclopsScannerInstructions": "Pressione e segure {0} para ativar o dispositivo de escaneamento do Cyclops.",
+  "ScannerSizeLimitMessage": "Equipamento mais avançado é necessário para escanear isto",
+  "ScannerScreenSizeLimit": "LIMITE DE TAMANHO ALCANÇADO",
+  "GargEMPWarning": "[SURTO DE ENERGIA DETECTADO]\nGARANTA CONSUMO MÍNIMO DE ENERGIA!",
+  "GargEMPHit": "SISTEMAS DE ENERGIA SOBRECARGADOS!\n[MAGNITUDE DA TENSÃO: +{0}U (~{1}s)]",
+  "GargEMPMiss": "EXPLOSÃO EMP EVITADA",
+  // Garg toy accessories
+  "GargAccessoryFormat": "Pressione {0} Para mostrar/ocultar '{1}'.",
+  "GargAccessory_Bowtie": "Gravata Borboleta",
+  "GargAccessory_ChristmasHat": "Chapéu de Natal",
+  "GargAccessory_BunnyEars": "Orelhas de Coelho",
+  "GargAccessory_Monicle": "Monóculo",
+  "GargAccessory_NewYears": "Óculos de Ano Novo",
+  "GargAccessory_SepticSam": "Septic Sam",
+  "GargAccessory_Sign": "Data de Lançamento",
+  "GargAccessory_Tophat": "Cartola",
+  "GargAccessory_Warfstashe": "Bigode de Guerra",
+  // Signals
+  // Label is what you see in the world. Name is what you see in the beacon manager.
+  "SupplyCacheBaseSignal": "Coordenadas baixadas",
+  "Label_SupplyCacheBaseSignal": "┗▚┛┏┫┗▘▚ ┛┣┏┗▖▜▚",
+  "LostRiverCacheSignal": "Laboratório de Depósito do Lost River",
+  "Label_LostRiverCacheSignal": "Sinal Alienígena (685m abaixo do solo)",
+  "RuinedGuardianSignal": "Chip de rastreamento não identificado",
+  "Label_RuinedGuardianSignal": "Sinal de socorro",
+  // Achievements
+  "AchievementCraftWarpCannonName": "Tecnologia Híbrida",
+  "AchievementCraftWarpCannonUnlocked": "Obteve o Dispositivo de Deformação Portátil.",
+  "AchievementWarpFarName": "Mestre da Teleportação",
+  "AchievementWarpFarUnlocked": "Teleportou 2000 metros.",
+  "AchievementWarpFarLocked": "Teleporte 2000 metros.",
+  "AchievementYeetGarryfishName": "Para a Órbita",
+  "AchievementYeetGarryfishLocked": "Lance 3 Garryfish alto no céu apenas com uma Faca de Íon.",
+  "AchievementYeetGarryfishUnlocked": "Os Garryfish estão em um lugar melhor agora.",
+  "AchievementPetBirdName": "Pássaro de Estimação",
+  "AchievementPetBirdLocked": "Teleporte um Skyray para sua base.",
+  "AchievementPetBirdUnlocked": "Teletransportou um Skyray para sua base.",
+  "AchievementManuallyScanGargName": "Uma Medição Mais Abrangente",
+  "AchievementManuallyScanGargLocked": "Escaneie um Gargantuan Leviatã adulto com um escâner portátil.",
+  "AchievementManuallyScanGargUnlocked": "Você não precisava fazer isso.",
+  "AchievementScanBiologicalName": "Entusiasta de Enciclopédia",
+  "AchievementScanBiologicalLocked": "Escaneie toda a Fauna, Flora e Coral do jogo base.",
+  "AchievementScanBiologicalUnlocked": "Você escaneou toda a Fauna, Flora e Coral!",
+  "AchievementScanLeviathansName": "Entusiasta de Horror",
+  "AchievementScanLeviathansLocked": "Escaneie todos os leviatãs agressivos, incluindo o Gargantuan Leviatã...",
+  "AchievementScanLeviathansUnlocked": "Espero que a Alterra lhe dê um aumento."
+}
