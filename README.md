@@ -1,6 +1,6 @@
 # ReturnOfTheAncientsDemo Tradução PT-BR
 
-<p align="center"><a target="_blank" href=""><img src="imgs/RotA PT-BR.png" alt="Tradução dp RoTA Arthur">
+<p align="center"><a target="_blank" href="https://github.com/ArchitectsOfTheUnknown/ReturnOfTheAncientsDemo/blob/main/return-of-the-ancients.md"><img src="imgs/RotA PT-BR.png" alt="Tradução do RotA">
 
 No dia 15/01/2025 comecei a traduzir o Mod Return Of The Ancients Demo para o jogo Subnautica (apesar de nunca ter mexido com traduções de mod para Subnautica mas mesmo assim eu me joguei de cabeça para saber como funcionava). Esse é o meu primeiro contato com tradução de mod e eu espero que goste do meu trabalho!
 
